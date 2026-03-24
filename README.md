@@ -4,7 +4,7 @@
 2. Switch to the `api-start` branch.
 3. Clone the repository to your local machine.
 
-You can find next steps in the README on the `api-start` branch.
+You can find next steps in the README on the `api-start` branch.//
 
 
 ## Build with Me + GitHub Copilot 🚀
